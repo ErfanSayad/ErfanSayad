@@ -1,7 +1,8 @@
 ![logo](https://github.com/ErfanSayad/ErfanSayad/blob/main/HEADER.jpg)
+![](https://komarev.com/ghpvc/?username=ErfanSayad)
+
 <h1 align="center">Hi 👋, I'm Erfan</h1>
 <h3 align="center">A passionate Backend Developer | .NET Core, PHP, Python Enthusiast</h3>
-
 <img align='right' alt='ErfanSayad' width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGQ5eG9jd243M29uM3lkcHpxd2ZqY2RsdHhpejVra3g5YTdmN3h6dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 👨‍💻 All of my projects are available at [https://github.com/ErfanSayad/ENSYD](https://github.com/ErfanSayad/)
