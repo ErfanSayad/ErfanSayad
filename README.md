@@ -1,5 +1,5 @@
 ![logo](https://github.com/ErfanSayad/ErfanSayad/blob/main/HEADER.jpg)
-![](https://komarev.com/ghpvc/?username=ErfanSayad)
+
 
 <h1 align="center">Hi 👋, I'm Erfan</h1>
 <h3 align="center">A passionate Backend Developer | .NET Core, PHP, Python Enthusiast</h3>
