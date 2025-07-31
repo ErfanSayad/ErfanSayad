@@ -6,7 +6,7 @@ I am a self-driven backend developer with solid expertise in C#, .NET Core, PHP,
 
 ## 🌐 Socials:
 [![Telegram](https://img.shields.io/badge/Telegram-%230087CC.svg?logo=telegram&logoColor=white)](https://t.me/erfan_sayad?) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/erfansayad)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/erfansayad?)
 
 
 
